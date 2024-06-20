@@ -112,3 +112,20 @@ a{
   text-decoration: none;
   color: #333;
 }
+
+.tools-box{
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.tools-items{
+  padding: 30px;
+  margin: 30px;
+  background-color: aqua;
+  border-radius: 25px;
+  font-weight: 600;
+  font-family: 'Mona Sans', 'Noto Sans JP', sans-serif;
+
+}
