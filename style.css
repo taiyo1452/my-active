@@ -97,10 +97,14 @@ img{
   .int-items{
     width: 30%;
   }
+  .tools-items{
+    width: 30%;
+  }
   .minimg{
     width: 70%;
     height: 70%;
   }
+  
 }
 
 .int-items:not(:nth-child(2n+2)){
@@ -123,6 +127,8 @@ a{
 .tools-items{
   padding: 30px;
   margin: 30px;
+  width: 30%;
+  height: auto;
   background-color: aqua;
   border-radius: 25px;
   font-weight: 600;
