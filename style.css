@@ -135,3 +135,19 @@ a{
   font-family: 'Mona Sans', 'Noto Sans JP', sans-serif;
 
 }
+
+#me-img {
+  width: 70%;
+  height: auto;
+  border-radius: 25px;
+}
+
+#me-img-box{
+  width: 30%;
+  height: auto;
+}
+
+#introduction{
+  border: none;
+  text-align: start;
+}
