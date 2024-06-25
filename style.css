@@ -137,7 +137,7 @@ a{
 }
 
 #me-img {
-  width: 70%;
+  width: 50%;
   height: auto;
   border-radius: 25px;
 }
@@ -150,4 +150,9 @@ a{
 #introduction{
   border: none;
   text-align: start;
+}
+
+.weight{
+  font-weight: 600;
+  font-size: 18px;
 }
